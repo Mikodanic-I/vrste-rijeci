@@ -1,0 +1,19 @@
+{
+  "name": "vrste-rijeci",
+  "version": "1.0.0",
+  "description": "prepoznavanje vrsta rijeci",
+  "author": "Ivan Mikodanic",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
