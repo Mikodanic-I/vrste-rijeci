@@ -50,11 +50,8 @@ export default {
             }
           }
         );
-        console.log(data);
         this.words = data.apiResponse.words;
-      } catch (e) {
-        console.log(e);
-      }
+      } catch (e) {}
     }
   }
 };
